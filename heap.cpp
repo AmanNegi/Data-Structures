@@ -6,7 +6,7 @@
 ! 2. Parent = n/2
 ! 3. Left child = n*2
 ! 4. Right child = n*2+1
-
+! 5. Leaf nodes start from n/2 to n
 */
 
 #include <bits/stdc++.h>
